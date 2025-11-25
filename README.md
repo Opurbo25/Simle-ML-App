@@ -12,7 +12,7 @@ Follow the steps below to run this project on your machine.
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Opurbo25/Simple-ML-App.git
+cd Simple-ML-App
 pip install -r requirements.txt
 streamlit run app.py
